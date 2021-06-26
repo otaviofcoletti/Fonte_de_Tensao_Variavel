@@ -37,4 +37,3 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 (colocar fotos aqui)
 
-
