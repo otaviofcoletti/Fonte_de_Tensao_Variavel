@@ -45,6 +45,6 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 Otávio Ferracioli Coletti
 
-Kenzo 
+Kenzo Yves Yamashita Nobre
 
 Bernardo
