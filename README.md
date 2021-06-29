@@ -37,3 +37,14 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 
 (colocar fotos aqui)
 
+## :link: Links 
+
+[Link do circuito no Falstad](https://tinyurl.com/ygxmeaq4 "Falstad")
+
+## :mortar_board: Alunos:
+
+Otávio Ferracioli Coletti
+
+Kenzo 
+
+Bernardo
