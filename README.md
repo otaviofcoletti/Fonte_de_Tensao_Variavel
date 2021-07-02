@@ -49,4 +49,4 @@ Otávio Ferracioli Coletti
 
 Kenzo Yves Yamashita Nobre
 
-Bernardo
+Bernardo Rodrigues Tameirão Santos
