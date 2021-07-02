@@ -47,6 +47,8 @@ O capacitor é um componente elétrico que armazena cargas elétricas e libera c
 
 [Link do circuito no Falstad 2](https://tinyurl.com/yfcj22wa "Falstad")
 
+[Link do circuito no Falstad 3](https://tinyurl.com/yggp82k5 "Falstad")
+
 ## :mortar_board: Alunos:
 
 Otávio Ferracioli Coletti
