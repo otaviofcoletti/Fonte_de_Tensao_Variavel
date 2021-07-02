@@ -8,10 +8,11 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 * Transformador:
 
 O transformador é um componente elétrico capaz de alterar o valor da tensão elétrica em um circuito através de duas ou mais bobinas acopladas em um núcleo ferromagnético. Foi utilizado um transformador capaz de mudar uma tensão de X volts para Y volts.
-
 * Fusível:
 * Varistor:
 * Ponte de diodo:
+
+A ponte de diodo é um dispositivo retificador de tensão, ou seja, ele transforma uma tensão alternada em uma tensão contínua, permitindo que o circuito seja alimentado pelos dois ciclos da corrente alternada.
 * Capacitor:
 * Diodo de Zener:
 * Resistores:
