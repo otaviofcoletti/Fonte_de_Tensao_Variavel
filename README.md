@@ -6,7 +6,7 @@ Construção de uma fonte reficadora capaz de transformar corrente alternada de 
 Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência de 60 hz.
 ## :pencil: Componentes utilizados:
 * Transformador:
-
+O transformador é um componente elétrico que funciona em corrente alternada, capaz de alterar o valor da tensão elétrica em um circuito através de duas bobinas acopladas em um núcleo ferromagnético. Quando a primeira bobina é energizada com uma corrente alternada, o campo eletromagnético gerado pelo fluxo dessa corrente na bobina induz uma tensão na outra bobina, por meio do princípio da indução magnética. A mudança de voltagem baseia-se na seguinte equação : $$ 
 [texo aqui]
 * Fusível:
 * Varistor:
