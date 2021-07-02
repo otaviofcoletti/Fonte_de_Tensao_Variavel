@@ -20,7 +20,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
 | Quatidade     | Componente | Preço |
 | ------------- |:-------------| :-----|
-|     1 | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-200ma-110-220vac.html) | R$ 21,35 |
+|     1x | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-200ma-110-220vac.html) | R$ 21,35 |
 | col 2 is      | Fusível |   $12 |
 | zebra stripes | Varistor |    $1 |
 | col 3 is      | Capacitor | $1600 |
