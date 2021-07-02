@@ -14,6 +14,8 @@ O transformador é um componente elétrico capaz de alterar o valor da tensão e
 
 A ponte de diodo é um dispositivo retificador de tensão, ou seja, ele transforma uma tensão alternada em uma tensão contínua, permitindo que o circuito seja alimentado pelos dois ciclos da corrente alternada.
 * Capacitor:
+
+O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de X uF para reduzir em Y% o ripple.  
 * Diodo de Zener:
 * Resistores:
 * Potenciômetro:
