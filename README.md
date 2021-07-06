@@ -40,6 +40,13 @@ O capacitor é um componente elétrico que armazena cargas elétricas e libera c
 ## :camera: Fotos das Simulações e Circuitos:
 
 (colocar fotos aqui)
+### Esquemático no Eagle: 
+![alt text](https://user-images.githubusercontent.com/65844604/124635147-7ae3b400-de5d-11eb-9229-59a7308ce5b2.jpg "Imagem do esquemático no Eagle")
+### PCB no Eagle:
+![alt text](https://user-images.githubusercontent.com/65844604/124635149-7b7c4a80-de5d-11eb-987f-f3e81e98af8b.jpg "Imagem do PBC no Eagle")
+### Circuito no Falstad:
+![alt text](https://user-images.githubusercontent.com/65844604/124635729-20972300-de5e-11eb-8fa2-968b43ea7099.jpg "Imagem do circuito no Falstad")
+
 
 ## :link: Links 
 
