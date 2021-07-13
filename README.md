@@ -56,15 +56,15 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 
 ## :link: Links 
 
-[Link do circuito no Falstad](https://tinyurl.com/ygxmeaq4 "Falstad")
+[Link do circuito no Falstad versão 1](https://tinyurl.com/ygxmeaq4 "Falstad")
 
-[Link do circuito no Falstad 2](https://tinyurl.com/yfcj22wa "Falstad")
+[Link do circuito no Falstad versão 2](https://tinyurl.com/yfcj22wa "Falstad")
 
-[Link do circuito no Falstad 3](https://tinyurl.com/yggp82k5 "Falstad")
+[Link do circuito no Falstad versão 3](https://tinyurl.com/yggp82k5 "Falstad")
 
-[Link do circuito no Falstad 4](https://tinyurl.com/ygtvqxmx "Falstad")
+[Link do circuito no Falstad versão 4](https://tinyurl.com/ygtvqxmx "Falstad")
 
-[Link do circuito no Falstad 5](https://tinyurl.com/ygcgxo6z "Falstad")
+[Link do circuito no Falstad versão 5](https://tinyurl.com/ygcgxo6z "Falstad")
 
 ## :mortar_board: Alunos:
 
