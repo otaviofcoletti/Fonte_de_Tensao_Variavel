@@ -26,6 +26,9 @@ O diodo de Zener é um diodo especifico que só conduz corrente se ele estiver s
 Os resistores são componentes responsáveis por evitar que a corrente ultrapasse altos valores que podem comprometer o circuito. Assim, eles foram utilizados para garantir a segurança e funcinamento de outros componentes.
 
 * Potenciômetro:
+
+O potenciômetro é um componente elétrico de resistência variãvel capaz de limitar o fluxo de corrente, alterando também a voltagem do circuito. No caso do projeto, ele foi usado para permitir a variação da tensão no intervalo de 3V até 12V.
+
 * Transistor:
 
 ## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
