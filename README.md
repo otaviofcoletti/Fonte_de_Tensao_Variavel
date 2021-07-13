@@ -16,8 +16,15 @@ A ponte de diodo é um dispositivo retificador de tensão, ou seja, ele transfor
 * Capacitor:
 
 O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de X uF para reduzir em Y% o ripple.  
+
 * Diodo de Zener:
+
+O diodo de Zener é um diodo especifico que só conduz corrente se ele estiver submetido a uma tensão maior que a sua tensão de trabalho. Dessa maneira, ele limita o maior valor de voltagem que passará pelo resto do circuito. Ele foi utilizado para manter a tensão máxima dos terminais do projeto em 12V. 
+
 * Resistores:
+
+Os resistores são componentes responsáveis por evitar que a corrente ultrapasse altos valores que podem comprometer o circuito. Assim, eles foram utilizados para garantir a segurança e funcinamento de outros componentes.
+
 * Potenciômetro:
 * Transistor:
 
