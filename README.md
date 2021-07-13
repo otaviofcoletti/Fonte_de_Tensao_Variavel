@@ -15,7 +15,7 @@ A ponte de diodo é um dispositivo retificador de tensão, ou seja, ele transfor
 
 * Capacitor:
 
-O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de 680 uF para reduzir em 6% o ripple.  
+O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de 680 uF, reduzindo o ripple em aproximadamente 6%~7%.  
 
 * Diodo de Zener:
 
