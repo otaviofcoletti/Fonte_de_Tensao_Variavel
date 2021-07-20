@@ -35,12 +35,12 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 | Quatidade     | Componente | Preço |
 | ------------- |:-------------| :-----|
 |     1x | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-200ma-110-220vac.html) | R$ 21,35 |
-| col 3 is      | Capacitor | $1600 |
+| col 3 is      | Capacitor  | $1600 |
 | col 2 is      | Diodo de Zener |   $12 |
-| zebra stripes | Resistores |    $1 |
-| col 3 is      | Transformador | $1600 |
-| col 3 is      | Capacitor | $1600 |
-| col 2 is      | Diodo de Zener |   $12 |
+| 1x 1.2k e 2x 2k | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) | 0,2 + 2x (0,23) = R$ 0,66 |
+| 4x     | Diodos | $1600 |
+| 1x      | Led | $1600 |
+| 1x | Transistor |   $12 |
 | Total |  |    1 BTC |
 
 ## :camera: Fotos das Simulações e Circuitos:
