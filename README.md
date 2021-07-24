@@ -37,7 +37,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 |     1x | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-200ma-110-220vac.html) | R$ 21,35 |
 | 1x      | [Capacitor](https://www.acheicomponentes.com.br/capacitor-eletrolitico-680uf-10v-105oc-8x13-pre-cortado?parceiro=3811)  | R$ 0,70 |
 | 1x      | [Diodo de Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | R$ 0,19 |
-| 1x 1.2k e 2x 2k | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) |R$ 0,2 + 2x (0,23) = R$ 0,66 |
+| 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) |R$ 0,2 + 2x (0,23) = R$ 0,66 |
 | 4x     | [Diodos](https://www.baudaeletronica.com.br/diodo-1n4001.html) | 4x (R$0,15) = R$ 0,60 |
 | 1x      | [Led](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) | R$ 0,19|
 | 1x | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc548.html) |   R$ 0,17 |
