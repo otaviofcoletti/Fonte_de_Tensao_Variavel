@@ -7,7 +7,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 ## :pencil: Componentes utilizados:
 * Transformador:
 
-O transformador é um componente elétrico capaz de alterar o valor da tensão elétrica em um circuito através de duas ou mais bobinas acopladas em um núcleo ferromagnético. Para o projeto, foi utilizado um transformador capaz de mudar uma tensão de 127 volts para aproximadamente 17 volts.
+O transformador é um componente elétrico capaz de alterar o valor da tensão elétrica em um circuito. Para o projeto, foi utilizado um transformador capaz de mudar uma tensão de 127 volts para aproximadamente 17 volts.
 
 * Ponte de diodo:
 
