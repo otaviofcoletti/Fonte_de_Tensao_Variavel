@@ -37,7 +37,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 |     1x | [Transformador](https://produto.mercadolivre.com.br/MLB-1542461664-transformador-entrada-110220v-saida-17v-16a-uso-geral-_JM#position=9&search_layout=stack&type=item&tracking_id=33a7d7f3-1d1d-4c43-85eb-fd94d08b4dc6) | R$ 22,80 |
 | 1x      | [Capacitor](https://www.acheicomponentes.com.br/capacitor-eletrolitico-680uf-10v-105oc-8x13-pre-cortado?parceiro=3811)  | R$ 0,70 |
 | 1x      | [Diodo de Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | R$ 0,19 |
-| 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) |R$ 0,2 + 2x (0,05) = R$ 0,12 |
+| 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html) |R$ 0,2 + 2x (0,05) = R$ 0,12 |
 | 4x     | [Diodos](https://www.baudaeletronica.com.br/diodo-1n4007.html) | 4x (R$0,09) = R$ 0,45 |
 | 1x      | [Led](https://www.wjcomponentes.com.br/led-5mm-amarelo?parceiro=6298) | R$ 0,17|
 | 1x | [Transistor](https://www.filipeflop.com/produto/transistor-s8050-npn-x10-unidades/) |   R$ 0,59 |
