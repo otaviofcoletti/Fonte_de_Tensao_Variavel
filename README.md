@@ -59,6 +59,10 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 Como <img src="https://render.githubusercontent.com/render/math?math=\large V1 = 19.05V, V2 = 17.6V">
 , sabe-se que a ponte de diodo consome aproximadamente <img src="https://render.githubusercontent.com/render/math?math=\large 1.4V">, pois <img src="https://render.githubusercontent.com/render/math?math=\large V2 = V1 - 1.4V">
 
+Para calcular as correntes : 
+
+<img src="https://render.githubusercontent.com/render/math?math=\large i_{carga} = \dfrac{V_{zener} - V_{be}}{R_{carga}} = \dfrac{12.8 - 0.714}{120} = 99.817 mA">
+
 ## :link: Links 
 
 [Circuito no Falstad versão 1](https://tinyurl.com/ygxmeaq4 "Falstad")
