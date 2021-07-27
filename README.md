@@ -66,6 +66,9 @@ Para calcular as correntes :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{led} = \dfrac{V_{2} - V_{led}}{2000 \Omega} = 7.877 mA">
 
+<img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{V_{2}}{R1 + R2 + R_{potenciometro}} = \dfrac{17.6 - 12.8}{8} = 1.96 mA">
+
+
 ## :link: Links 
 
 [Circuito no Falstad versão 1](https://tinyurl.com/ygxmeaq4 "Falstad")
