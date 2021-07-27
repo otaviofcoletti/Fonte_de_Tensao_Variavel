@@ -40,7 +40,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 | 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) |R$ 0,2 + 2x (0,23) = R$ 0,66 |
 | 4x     | [Diodos](https://www.baudaeletronica.com.br/diodo-1n4001.html) | 4x (R$0,15) = R$ 0,60 |
 | 1x      | [Led](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) | R$ 0,19|
-| 1x | [Transistor](https://www.filipeflop.com/produto/transistor-s8050-npn-x10-unidades/) |   R$ 0,17 |
+| 1x | [Transistor](https://www.filipeflop.com/produto/transistor-s8050-npn-x10-unidades/) |   R$ 0,59 |
 | 1x | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | R$ 1,99 |
 | Total |  |  R$ 27,72 |
 
