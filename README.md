@@ -57,7 +57,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 <img src="https://render.githubusercontent.com/render/math?math=\large V1"> é a tensão pico após o transformador e <img src="https://render.githubusercontent.com/render/math?math=\large V2"> é a tensão após a ponte de diodo.
 
 Como <img src="https://render.githubusercontent.com/render/math?math=\large V1 = 19.05V, V2 = 17.6V">
-Sabemos que a ponte de diodo consome aproximadamente <img src="https://render.githubusercontent.com/render/math?math=\large 1.4V">, pois <img src="https://render.githubusercontent.com/render/math?math=\large V2 = V1 - 1.4V">
+, sabe-se que a ponte de diodo consome aproximadamente <img src="https://render.githubusercontent.com/render/math?math=\large 1.4V">, pois <img src="https://render.githubusercontent.com/render/math?math=\large V2 = V1 - 1.4V">
 
 ## :link: Links 
 
