@@ -62,6 +62,7 @@ Como <img src="https://render.githubusercontent.com/render/math?math=\large V1 =
 Para calcular as correntes : 
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{carga} = \dfrac{V_{zener} - V_{be}}{R_{carga}} = \dfrac{12.8 - 0.714}{120} = 99.817 mA">
+<img src="https://render.githubusercontent.com/render/math?math=\large i_{zener} = \dfrac{V2 - V_{zener}}{R1} = \dfrac{17.6 - 12.8}{1200} = 1.015 mA">
 
 ## :link: Links 
 
