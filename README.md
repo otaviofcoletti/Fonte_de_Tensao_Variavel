@@ -68,6 +68,17 @@ Para calcular as correntes :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{V_{3}}{R2 %2B R_{potenciometro}} = 1.96 mA">
 
+Para calcular a capacitância :
+
+<img src="https://render.githubusercontent.com/render/math?math=\large C = ]dfrac{i}{f * U}">
+
+<img src="https://render.githubusercontent.com/render/math?math=\large i = 110,669mA">
+
+<img src="https://render.githubusercontent.com/render/math?math=\large f = 2 * 60Hz">
+
+<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 * (fator ripple) ~ 17,6 * 7%">
+
+
 
 ## :link: Links 
 
