@@ -53,6 +53,11 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 ### :battery: Circuito no Falstad:
 ![alt text](https://user-images.githubusercontent.com/65844604/125877636-9c25eb5d-9904-4d9f-83df-b45c53045375.jpg "Imagem do circuito no Falstad")
 
+## :pencil: Calculos:
+
+<img src="https://render.githubusercontent.com/render/math?math=V1 = 19.05">
+<img src="https://render.githubusercontent.com/render/math?math=V2 = 17.6">
+
 
 ## :link: Links 
 
