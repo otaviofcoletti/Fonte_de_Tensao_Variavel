@@ -76,7 +76,7 @@ Para calcular a capacitância :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large f = 2 \cdot 60Hz">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 \cdot Fator Ripple = 17,6 \cdot 7.7\%">
+<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 \cdot Ripple = 17,6 \cdot 7.7">
 
 
 
