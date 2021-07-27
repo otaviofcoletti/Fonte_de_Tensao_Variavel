@@ -55,6 +55,12 @@ O transistor é um componente eletríco utilizado para permitir a passagem da co
 ### :battery: Circuito no Falstad:
 ![alt text](https://user-images.githubusercontent.com/65844604/125877636-9c25eb5d-9904-4d9f-83df-b45c53045375.jpg "Imagem do circuito no Falstad")
 
+## :movie_camera: Vídeos:
+
+Apresentação da fonte e detalhamento dos componentes pelos alunos:
+
+https://www.youtube.com/watch?v=KvUwdQwJLZA
+
 ## :pencil: Calculos:
 <img src="https://render.githubusercontent.com/render/math?math=\large V_{1}"> é a tensão pico após o transformador e <img src="https://render.githubusercontent.com/render/math?math=\large V_{2}"> é a tensão após a ponte de diodo.
 
