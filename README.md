@@ -70,7 +70,7 @@ Para calcular as correntes :
 
 Para calcular a capacitância :
 
-<img src="https://render.githubusercontent.com/render/math?math=\large C = ]dfrac{i}{f * U}">
+<img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f * U}">
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i = 110,669mA">
 
