@@ -15,7 +15,7 @@ A ponte de diodo é um dispositivo retificador de tensão, ou seja, ele transfor
 
 * Capacitor:
 
-O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de 680 uF no circuito para reduzir o ripple em aproximadamente 7%.  
+O capacitor é um componente elétrico que armazena cargas elétricas e libera corrente quando a tensão interna é maior que a tensão externa. Ele foi utilizado no projeto para acumular as cargas da corrente alternada vinda da fonte para diminuir o ripple. Foi selecionado um capacitor de 680 uF no circuito para reduzir o ripple em aproximadamente 7.7%.  
 
 * Diodo de Zener:
 
@@ -30,6 +30,8 @@ Os resistores são componentes responsáveis por evitar que a corrente ultrapass
 O potenciômetro é um componente elétrico de resistência variável capaz de limitar o fluxo de corrente, alterando também a voltagem do circuito. No caso do projeto, ele foi usado para permitir a variação da tensão no intervalo de 3V até 12V.
 
 * Transistor:
+
+O transistor é um componente eletríco utilizado para permitir a passagem da corrente de forma ajustável.
 
 ## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
 | Quatidade     | Componente | Preço |
