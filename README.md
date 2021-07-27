@@ -49,9 +49,9 @@ O transistor é um componente eletríco utilizado para permitir a passagem da co
 ## :camera: Fotos das Simulações e Circuitos:
 
 ### :chicken: Esquemático no Eagle : 
-![alt text](https://user-images.githubusercontent.com/65844604/125877613-3b22d568-c141-4f44-8235-5377413f8bcb.jpg "Imagem do esquemático no Eagle")
+![alt text](https://user-images.githubusercontent.com/65844604/127213365-f904d8c0-9be8-4b67-94ad-37910302654d.jpg)
 ### :electric_plug: PCB no Eagle:
-![alt text](https://user-images.githubusercontent.com/65844604/127178934-ba847461-abf9-40b4-8384-28b7968df593.jpg)
+![alt text](https://user-images.githubusercontent.com/65844604/127213316-669f87f2-d5d5-4069-88f0-aad2b81f8724.jpg)
 ### :battery: Circuito no Falstad:
 ![alt text](https://user-images.githubusercontent.com/65844604/125877636-9c25eb5d-9904-4d9f-83df-b45c53045375.jpg "Imagem do circuito no Falstad")
 
