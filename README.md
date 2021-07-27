@@ -55,9 +55,6 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 
 ## :pencil: Calculos:
 
-<img src="https://render.githubusercontent.com/render/math?math=V1 = 19.05">
-<img src="https://render.githubusercontent.com/render/math?math=V2 = 17.6">
-
 
 ## :link: Links 
 
