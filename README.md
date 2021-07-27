@@ -70,6 +70,8 @@ Para calcular as correntes :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{12.8}{6.5 \Omega} = 1.96 mA">
 
+<img src="https://render.githubusercontent.com/render/math?math=\large i = i_{carga} %2B i_{zener} %2B i_{led} %2B i_{pontenciometro}">
+
 Para calcular a capacitância :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f \cdot U}">
