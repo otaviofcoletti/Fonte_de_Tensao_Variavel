@@ -66,17 +66,17 @@ Para calcular as correntes :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{led} = \dfrac{V_{2} - V_{led}}{2000 \Omega} = 7.877 mA">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{V_{3}}{R2 %2B R_{potenciometro}} = 1.96 mA">
+<img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{12.8}{6.5 \Omega} = 1.96 mA">
 
 Para calcular a capacitância :
 
-<img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f x U}">
+<img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f \cdot U}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large i = 110,669mA">
+<img src="https://render.githubusercontent.com/render/math?math=\large i = 110.669mA">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large f = 2 x 60Hz">
+<img src="https://render.githubusercontent.com/render/math?math=\large f = 2 \cdot 60Hz">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 x (fator ripple) = 17,6 x 7%">
+<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 * (fator ripple) ~ 17,6 \cdot 7.7\%">
 
 
 
