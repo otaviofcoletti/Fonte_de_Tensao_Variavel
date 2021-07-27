@@ -64,7 +64,7 @@ Como <img src="https://render.githubusercontent.com/render/math?math=\large V_{1
 Para calcular as correntes : 
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{carga} = \dfrac{V_{zener} - V_{be}}{R_{carga}} = \dfrac{12.8 - 0.714}{120 \Omega} = 99.817 mA">
-<img src="https://render.githubusercontent.com/render/math?math=\large i_{zener} = \dfrac{V_{2} - V_{zener}}{R_{1}} = \dfrac{17.6 - 12.8}{1200 \Omega} = 1.015 mA">
+<img src="https://render.githubusercontent.com/render/math?math=\large i_{zener} = \dfrac{V_{2} - V_{zener}}{R_{1}} = 1.015 mA">
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{led} = \dfrac{V_{2} - V_{led}}{2000 \Omega} = 7.877 mA">
 
