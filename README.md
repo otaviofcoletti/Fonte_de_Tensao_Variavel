@@ -70,13 +70,13 @@ Para calcular as correntes :
 
 Para calcular a capacitância :
 
-<img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f * U}">
+<img src="https://render.githubusercontent.com/render/math?math=\large C = \dfrac{i}{f x U}">
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i = 110,669mA">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large f = 2 * 60Hz">
+<img src="https://render.githubusercontent.com/render/math?math=\large f = 2 x 60Hz">
 
-<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 * (fator ripple) ~ 17,6 * 7%">
+<img src="https://render.githubusercontent.com/render/math?math=\large U = V2 x (fator ripple) = 17,6 x 7%">
 
 
 
