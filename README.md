@@ -67,7 +67,7 @@ Para calcular as correntes :
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{led} = \dfrac{V_{2} - V_{led}}{2000 \Omega} = 7.877 mA">
 
 <img src="https://render.githubusercontent.com/render/math?math=\large i_{pontenciometro} = \dfrac{V_{3}}{R_{2} %2B R_{potenciometro}} = \dfrac{12.8}{2 %2B
-4.5 \Omega} = 1.96 mA">
+4.5} = 1.96 mA">
 
 
 ## :link: Links 
