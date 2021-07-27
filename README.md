@@ -78,6 +78,8 @@ Para calcular a capacitância :
 
 <img src="https://render.githubusercontent.com/render/math?math=\large U = V2 \cdot Ripple = 17,6 \cdot 7.7">
 
+<img src="https://render.githubusercontent.com/render/math?math=\large C = 680 \mu F">
+
 
 
 ## :link: Links 
