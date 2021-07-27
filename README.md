@@ -49,7 +49,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 ### :chicken: Esquemático no Eagle : 
 ![alt text](https://user-images.githubusercontent.com/65844604/125877613-3b22d568-c141-4f44-8235-5377413f8bcb.jpg "Imagem do esquemático no Eagle")
 ### :electric_plug: PCB no Eagle:
-![alt text](https://user-images.githubusercontent.com/65844604/126878027-13d61170-cd34-4a2e-bc91-fd6da0839474.jpg "Imagem do PBC no Eagle")
+![alt text](https://user-images.githubusercontent.com/65844604/127178934-ba847461-abf9-40b4-8384-28b7968df593.jpg)
 ### :battery: Circuito no Falstad:
 ![alt text](https://user-images.githubusercontent.com/65844604/125877636-9c25eb5d-9904-4d9f-83df-b45c53045375.jpg "Imagem do circuito no Falstad")
 
