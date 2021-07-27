@@ -34,7 +34,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 ## :heavy_dollar_sign: Preço dos componentes e o custo total da fonte:
 | Quatidade     | Componente | Preço |
 | ------------- |:-------------| :-----|
-|     1x | [Transformador](https://www.baudaeletronica.com.br/transformador-trafo-12v-200ma-110-220vac.html) | R$ 21,35 |
+|     1x | [Transformador](https://produto.mercadolivre.com.br/MLB-1542461664-transformador-entrada-110220v-saida-17v-16a-uso-geral-_JM#position=9&search_layout=stack&type=item&tracking_id=33a7d7f3-1d1d-4c43-85eb-fd94d08b4dc6) | R$ 22,80 |
 | 1x      | [Capacitor](https://www.acheicomponentes.com.br/capacitor-eletrolitico-680uf-10v-105oc-8x13-pre-cortado?parceiro=3811)  | R$ 0,70 |
 | 1x      | [Diodo de Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | R$ 0,19 |
 | 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://produto.mercadolivre.com.br/MLB-1756151761-resistor-de-carbono-2k-5-14w-cr25-100pcs-_JM#position=4&search_layout=grid&type=item&tracking_id=1acba448-6fae-4b1d-ad05-824455a9e04c) |R$ 0,2 + 2x (0,23) = R$ 0,66 |
@@ -42,7 +42,7 @@ O potenciômetro é um componente elétrico de resistência variável capaz de l
 | 1x      | [Led](https://www.baudaeletronica.com.br/led-difuso-5mm-vermelho.html) | R$ 0,19|
 | 1x | [Transistor](https://www.baudaeletronica.com.br/transistor-npn-bc548.html) |   R$ 0,17 |
 | 1x | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | R$ 1,99 |
-| Total |  |  R$ 25,85 |
+| Total |  |  R$ 27,30 |
 
 ## :camera: Fotos das Simulações e Circuitos:
 
