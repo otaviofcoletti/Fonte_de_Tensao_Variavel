@@ -104,6 +104,8 @@ Para calcular a capacitância :
 
 [Circuito no Falstad versão 5](https://tinyurl.com/yzpdvhwk "Falstad")
 
+[Drive com o circuito no eagle](https://drive.google.com/drive/folders/1UiNvsiAKiuCJ46LNKRNM5V2l7OR_PTXA?usp=sharing)
+
 ## :mortar_board: Alunos:
 
 Otávio Ferracioli Coletti
