@@ -1,5 +1,5 @@
 # Fonte de Tensão Variável
-Projeto de desenvolvimento de uma fonte de tensão váriavel de 3V-12V com uma corrente de 100mA.
+Projeto de uma fonte de tensão váriavel de 3V-12V com uma corrente de 100mA.
 ## Proposta do projeto:
 Construção de uma fonte reficadora capaz de transformar corrente alternada de tensão eficaz de 127 volts (pico de 179,6 volts) em uma corrente contínua, com valor de tensão ajustável entre 3 e 12 volts.
 
