@@ -39,12 +39,12 @@ O transistor é um componente eletríco utilizado para permitir a passagem da co
 |     1x | [Transformador](https://produto.mercadolivre.com.br/MLB-1542461664-transformador-entrada-110220v-saida-17v-16a-uso-geral-_JM#position=9&search_layout=stack&type=item&tracking_id=33a7d7f3-1d1d-4c43-85eb-fd94d08b4dc6) | R$ 22,80 |
 | 1x      | [Capacitor](https://www.acheicomponentes.com.br/capacitor-eletrolitico-680uf-10v-105oc-8x13-pre-cortado?parceiro=3811)  | R$ 0,70 |
 | 1x      | [Diodo de Zener](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html) | R$ 0,19 |
-| 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html) |R$ 0,2 + 2x (0,05) = R$ 0,12 |
-| 4x     | [Diodos](https://www.baudaeletronica.com.br/diodo-1n4007.html) | 4x (R$0,09) = R$ 0,45 |
+| 1x 1.2k ohm e 2x 2k ohm | [Resistores](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html) |R$ 0,20 + 2x (0,05) = R$ 0,30 |
+| 4x     | [Diodos](https://www.baudaeletronica.com.br/diodo-1n4007.html) | 4x (R$0,09) = R$ 0,36 |
 | 1x      | [Led](https://www.wjcomponentes.com.br/led-5mm-amarelo?parceiro=6298) | R$ 0,17|
 | 1x | [Transistor](https://www.filipeflop.com/produto/transistor-s8050-npn-x10-unidades/) |   R$ 0,59 |
 | 1x | [Potenciômetro](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) | R$ 1,99 |
-| Total |  |  R$ 27,19 |
+| Total |  |  R$ 27,10 |
 
 ## :camera: Fotos das Simulações e Circuitos:
 
