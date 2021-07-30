@@ -115,4 +115,4 @@ Kenzo Yves Yamashita Nobre
 Bernardo Rodrigues Tameirão Santos
 ## Agradecimentos
 Os alunos (Nerds da Computação) agradecem o empenho do professor Simões e pelos conhecimentos de eletrônica passados para construção da fonte.:nerd_face:
-
+E também em especial o monitor Kuabara que muito nos ajudou no desenvolvimento do projeto.:sunglasses:
