@@ -108,11 +108,11 @@ Para calcular a capacitância :
 
 ## :mortar_board: Alunos:
 
-Otávio Ferracioli Coletti
+[Otávio Ferracioli Coletti] (https://github.com/otaviofcoletti)
 
-Kenzo Yves Yamashita Nobre
+[Kenzo Yves Yamashita Nobre] (https://github.com/kenzonobre)
 
-Bernardo Rodrigues Tameirão Santos
+[Bernardo Rodrigues Tameirão Santos] (https://github.com/BernaTameirao)
 ## Agradecimentos
 Os alunos (Nerds da Computação) agradecem o empenho do professor Simões e pelos conhecimentos de eletrônica passados para construção da fonte.:nerd_face:
 E também em especial o monitor Kuabara que muito nos ajudou no desenvolvimento do projeto.:sunglasses:
