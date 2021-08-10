@@ -110,7 +110,7 @@ Para calcular a capacitância :
 
 [Otávio Ferracioli Coletti 11767796](https://github.com/otaviofcoletti)
 
-[Kenzo Yves Yamashita Nobre](https://github.com/kenzonobre)
+[Kenzo Yves Yamashita Nobre 5028772](https://github.com/kenzonobre)
 
 [Bernardo Rodrigues Tameirão Santos](https://github.com/BernaTameirao)
 ## Agradecimentos
