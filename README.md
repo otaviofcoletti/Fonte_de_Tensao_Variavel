@@ -108,7 +108,7 @@ Para calcular a capacitância :
 
 ## :mortar_board: Alunos:
 
-[Otávio Ferracioli Coletti](https://github.com/otaviofcoletti)
+[Otávio Ferracioli Coletti 11767796](https://github.com/otaviofcoletti)
 
 [Kenzo Yves Yamashita Nobre](https://github.com/kenzonobre)
 
